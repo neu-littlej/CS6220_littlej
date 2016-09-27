@@ -1,0 +1,5 @@
+I can tell by looking at my histograms and tables of Petal Length that we could split it at a distribution value of >= 2.0. This would seperate the Setosa from Versicolor and Virginica. 
+
+For the mean data of the iris dataset, it seems that Petal Width and Sepal Length differ a bit when it comes to medians. So far, it seems the Petal Length explains the greatest amount of data about each because of varying it is.
+
+The boxplot for Digiset isn't showing too many outliters. The Standard Deviation of the sets are the only ones that have a wider gap between the two largest values. I would think that this is because the numbers used in the dataset grow to be quite large and a lot of unique numbers.
